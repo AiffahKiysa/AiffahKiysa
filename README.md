@@ -1,10 +1,9 @@
-## Hello 👋
-
 <div align="center">
-   <h1>Hi there, I'm Aiffah Kiysa  </h1>
-</div>
+   <h1>Hello 👋, I'm Aiffah Kiysa  </h1>
 
 You can call me **Aiffah**. I am an undergraduate student of Informatics!
+</div>
+
 
 Here are some ideas to get you started:
 
