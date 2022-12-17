@@ -1,63 +1,98 @@
 <div align="center">
    <h1>Hello 👋, I'm Aiffah Kiysa  </h1>
 
-You can call me **Aiffah**. I am an undergraduate student of Informatics!
+<h2>You can call me **Aiffah**. I am an undergraduate student of Informatics!</h2>
+
+ <p align="center">
+    <a href="https://github.com/aiffahkiysa/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/aiffahkiysa/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/aiffahkiysa/github-readme-stats" />
+    </a>
+  </p>
+
 </div>
-
-
+  
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Informatics Engineering Sepuluh Nopember Institute of Technology
 - 🌱 I’m currently learning android developer and backend apps
 - 📫 Feel free to reach me :
 <p>
-    <a href="https://twitter.com/kiysawf" target="_blank"><img src="https://img.shields.io/badge/Twitter-0084b4?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-    <a href="https://dev.to/aiffahkiysa" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev To"></a>
-    <a href="https://www.instagram.com/aiffah.kw" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://www.linkedin.com/in/aiffah-kiysa-waafi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/kiysawf" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.instagram.com/aiffah.kw" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/aiffah.kiysawaafi" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://open.spotify.com/playlist/" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+  <a href="https://dev.to/aiffahkiysa" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+  <a href="https://www.linkedin.com/in/aiffah-kiysa-waafi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <br>
 
-## Statistics
+<div align="center">
+   <h1>Statistic</h1>
 
 <div>
-  <img height="154" src="https://github-readme-stats.vercel.app/api?username=AiffahKiysa&show_icons=true&theme=react&count_private=true&hide=issues" />
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiffahkiysa&layout=compact&theme=react&langs_count=6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AiffahKiysa&show_icons=true&theme=algolia&count_private=true&hide=issues" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiffahkiysa&layout=compact&theme=algolia&langs_count=6" />
+  
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aiffahkiysa&theme=algolia" alt="mystreak"/>
+  <img height="165" src="https://github-profile-trophy.vercel.app/?username=AiffahKiysa&theme=algolia&margin-w=15&margin-h=15&row=2&column=4" />
 </div>
 
 </div>
 
 <br>
 
+![Snake animation](https://github.com/aiffahkiysa/github-readme/blob/output/github-contribution-snake.svg)
+
 ***Languages, Tools, and Skills 🛠***
-
-<a href="https://laravel.com/">
-  <img align="left" alt="Laravel" title="Laravel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/115px-Laravel.svg.png?20190820171151" />
-</a>
-<a href="https://www.mysql.com/">
-  <img align="left" alt="My SQL" title="My SQL" width="78px" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" />
-</a>
-<a href="https://kotlinlang.org/">
-  <img align="left" alt="Kotlin" title="Kotlin" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png" />
-</a>
-<a href="https://www.php.net/">
-  <img align="left" alt="PHP" title="PHP" width="70px" src="https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png" />
-</a>
-<a href="https://html.com">
-  <img align="left" alt="HTML5" title="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-</a>
-<!-- <a href="https://css3.com">
-  <img align="left" alt="CSS3" title="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-</a> -->
-<a href="https://www.javascript.com">
-  <img align="left" alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</a>
-<a href="https://threejs.org">
-  <img align="left" alt="JavaScript" title="JavaScript" width="65px" src="https://aulapp.ovh/exelearning/threejs.png" />
-</a>
-<a href="webgl.com">
-  <img align="left" alt="JavaScript" title="JavaScript" width="65px" src="https://logos-download.com/wp-content/uploads/2017/01/WebGL_logo_logotype.png" />
-</a>
-
-   </div><br>
+<div>
+ <a href="#">
+    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>  
+   <a href="#">
+    <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
+  </a>  
+   <a href="#">
+    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+  </a>  
+   <a href="#">
+    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:6px 4px">
+  </a>   
+  <a href="#">
+    <img src="svg/dev/languages/MySQL.svg" alt="mysql" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/webgl.svg" alt="webgl" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/threejs.svg" alt="threejs" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
+  </a> 
+</div>
