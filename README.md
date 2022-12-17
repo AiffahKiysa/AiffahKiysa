@@ -61,7 +61,7 @@ Here are some ideas to get you started:
     <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>  
   <a href="#">
-    <img src="svg/dev/languages/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/Kotlin.svg" alt="kotlin" style="vertical-align:top; margin:6px 4px">
   </a>   
   <a href="#">
     <img src="svg/dev/languages/MySQL.svg" alt="mysql" style="vertical-align:top; margin:6px 4px">
