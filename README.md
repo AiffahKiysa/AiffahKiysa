@@ -14,7 +14,6 @@
 
 </div>
   
-  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Informatics Engineering Sepuluh Nopember Institute of Technology
@@ -28,11 +27,9 @@ Here are some ideas to get you started:
   <a href="https://dev.to/aiffahkiysa" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
   <a href="https://www.linkedin.com/in/aiffah-kiysa-waafi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
 <br>
 
-<div align="center">
-   <h1>Statistic</h1>
+***github statistic***
 
 <div>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AiffahKiysa&show_icons=true&theme=algolia&count_private=true&hide=issues" />
@@ -41,12 +38,13 @@ Here are some ideas to get you started:
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aiffahkiysa&theme=algolia" alt="mystreak"/>
   <img height="165" src="https://github-profile-trophy.vercel.app/?username=AiffahKiysa&theme=algolia&margin-w=15&margin-h=15&row=2&column=4" />
 </div>
-
-</div>
-
 <br>
 
+***github contribution***
+<div>
+
 ![Snake animation](https://github.com/aiffahkiysa/github-readme/blob/output/github-contribution-snake.svg)
+</div>
 
 ***Languages, Tools, and Skills 🛠***
 <div>
