@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hello 👋, I'm Aiffah Kiysa  </h1>
 
-<h2>You can call me **Aiffah**. I am an undergraduate student of Informatics!</h2>
+You can call me **Aiffah**. I am an undergraduate student of Informatics!
 
  <p align="center">
     <a href="https://github.com/aiffahkiysa/github-readme-stats/actions">
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-***github statistic***
+**github statistic**
 
 <div>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AiffahKiysa&show_icons=true&theme=algolia&count_private=true&hide=issues" />
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-***github contribution***
+**github contribution**
 <div>
 
 ![Snake animation](https://github.com/aiffahkiysa/github-readme/blob/output/github-contribution-snake.svg)
