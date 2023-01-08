@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-**github contribution**
+<!-- **github contribution**
 <div>
 
 ![Snake animation](https://github.com/aiffahkiysa/github-readme/blob/output/github-contribution-snake.svg)
-</div>
+</div> -->
 
 ***Languages, Tools, and Skills 🛠***
 <div>
