@@ -32,10 +32,11 @@ Here are some ideas to get you started:
 **github statistic**
 
 <div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AiffahKiysa&show_icons=true&theme=algolia&count_private=true&hide=issues" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AiffahKiysa&show_icons=true&theme=algolia&count_private=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiffahkiysa&layout=compact&theme=algolia&langs_count=6" />
-  
+
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aiffahkiysa&theme=algolia" alt="mystreak"/>
+  
   <img height="165" src="https://github-profile-trophy.vercel.app/?username=AiffahKiysa&theme=algolia&margin-w=15&margin-h=15&row=2&column=4" />
 </div>
 <br>
