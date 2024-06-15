@@ -17,7 +17,7 @@ You can call me **Aiffah**. I am an undergraduate student of Informatics!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Informatics Engineering Sepuluh Nopember Institute of Technology
-- 🌱 I’m currently learning android developer and backend apps
+- 🌱 I’m currently learning ios developer, android developer, and front-end developer
 - 📫 Feel free to reach me :
 <p>
   <a href="https://twitter.com/kiysawf" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
